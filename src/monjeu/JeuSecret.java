@@ -7,6 +7,8 @@ public class JeuSecret {
 
 	public static void main(String[] args) {
 		
+		System.out.println("bonjour C Bati");
+		
 		long nbSaisie,nbSecret,nbCoup=1;
 		
 		Random r = new Random();
